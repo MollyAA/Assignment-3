@@ -1,0 +1,40 @@
+//varibles
+$basecolor:darken(#eddfba, 15%);
+$cen: center;
+.topphoto{
+    background: url('../img/back-light-food-honey-41958.jpg');
+    background-position: 120% 40%;
+    height: 400px;
+    background-size: 125%;
+}
+footer#main-footer{
+    background-color: #350401;
+    color: white;
+}
+h1{
+color: #fff;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background: $basecolor;
+}
+.card{
+    background: cornsilk;
+}
+.honeyimg{
+    width: 270px;
+    height: 250px;
+}
+.card-text{
+    text-align: $cen;
+}
+.nav-link{
+    color:black
+}
+.moreinfo{
+    text-align: $cen;
+}
+.breadcrumb{
+    background: cornsilk;
+}
